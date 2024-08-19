@@ -1,4 +1,4 @@
-package AtividadeRevisao;
+package PilhasEFilasOuComPonteiros;
 
 public class Main {
     public static void main(String[] args) {

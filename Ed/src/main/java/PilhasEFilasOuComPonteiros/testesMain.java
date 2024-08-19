@@ -1,6 +1,4 @@
-package AtividadeRevisao;
-
-import AtividadeRevisao.Pct.PilhaComPonteiros.Stack;
+package PilhasEFilasOuComPonteiros;
 
 public class testesMain {
     public static void main(String[] args) {

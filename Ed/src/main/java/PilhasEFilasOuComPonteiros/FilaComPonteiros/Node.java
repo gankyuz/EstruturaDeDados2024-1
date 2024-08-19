@@ -1,4 +1,4 @@
-package AtividadeRevisao.FilaComPonteiros;
+package PilhasEFilasOuComPonteiros.FilaComPonteiros;
 
 public class Node {
     private int data;

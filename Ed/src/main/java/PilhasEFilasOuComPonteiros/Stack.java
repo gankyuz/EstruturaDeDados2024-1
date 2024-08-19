@@ -1,6 +1,4 @@
-package AtividadeRevisao.Pct.PilhaComPonteiros;
-
-import AtividadeRevisao.Pct.PilhaComPonteiros.PilhaComPonteiros;
+package PilhasEFilasOuComPonteiros;
 
 public class Stack {
     private PilhaComPonteiros.Node top;

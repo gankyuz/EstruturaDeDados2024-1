@@ -1,4 +1,4 @@
-package AtividadeRevisao;
+package PilhasEFilasOuComPonteiros;
 
 public class PilhaRedimensionavel {
     private int[] elementos;

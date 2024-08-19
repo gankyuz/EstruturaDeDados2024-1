@@ -1,4 +1,4 @@
-package AtividadeRevisao;
+package PilhasEFilasOuComPonteiros;
 
 public class FilaComPonteiros {
     public static class Node {

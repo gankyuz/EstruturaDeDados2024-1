@@ -1,6 +1,4 @@
-package AtividadeRevisao.FilaComPonteiros;
-
-import AtividadeRevisao.FilaComPonteiros;
+package PilhasEFilasOuComPonteiros.FilaComPonteiros;
 
 public class Fila extends Node{
     private Node front, rear;

@@ -1,4 +1,4 @@
-package AtividadeRevisao.Pct.PilhaComPonteiros;
+package PilhasEFilasOuComPonteiros;
 
 public class PilhaComPonteiros {
     public static class Node {
