@@ -1,7 +1,7 @@
-package PilhasEFilasOuComPonteiros.FilaComPonteiros;
+package PilhasEFilasOuComPonteiros.FilaComPonteirosA;
 
-public class Fila extends Node{
-    private Node front, rear;
+//public class Fila extends Node{
+  /*  private Node front, rear;
     public Fila(){
         super(data, null);
         this.front = this.rear = null;
@@ -37,5 +37,5 @@ public class Fila extends Node{
     }
     public boolean isEmpty(){
         return front == null;
-    }
-}
+    }*/
+//}
